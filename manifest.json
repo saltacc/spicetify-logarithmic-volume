@@ -1,0 +1,13 @@
+{
+  "name": "Logarithmic Volume",
+  "description": "Replace Spotify's volume bar with a power-curve volume slider for finer low-volume control.",
+  "preview": "preview.svg",
+  "main": "logarithmic-volume.js",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "salt"
+    }
+  ],
+  "tags": ["volume", "player", "accessibility"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "spicetify-logarithmic-volume",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Spicetify extension that gives Spotify's volume slider a softer low-volume curve.",
+  "scripts": {
+    "check": "node --check logarithmic-volume.js",
+    "publish:check": "npm run check && node scripts/validate-publish.js",
+    "install:spicetify": "bash scripts/install.sh"
+  },
+  "keywords": [
+    "spicetify",
+    "spotify",
+    "extension"
+  ],
+  "license": "MIT"
+}
