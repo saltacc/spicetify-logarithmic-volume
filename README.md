@@ -1,3 +1,7 @@
+# Archival notice
+
+Spotify appears to have changed this behavior so this extension is no longer needed, archiving
+
 # Logarithmic Volume
 
 A Spicetify extension that gives Spotify's volume slider finer control at low
